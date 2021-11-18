@@ -1,0 +1,16 @@
+IdProducto,NombreDelProducto,Categoria,precio,Fecha
+11,Ajo,vegetales,37,1/1/2021
+12,Brocoli,vegetales,30,2/1/2021
+13,Cebolla,vegetales,22,3/1/2021
+14,Agua,bebidas,15,4/1/2021
+15,Jugo,bebidas,20,5/1/2021
+16,Vino,bebidas,250,6/1/2021
+17,Atun,Enlatados,29,7/1/2021
+18,Sopa,Enlatados,22,8/1/2021
+19,Sardinas,Enlatados,30,9/1/2021
+20,Mantequilla,Lacteos,25,10/1/2021
+21,Queso,Lacteos,80,11/1/2021
+22,Helado,Lacteos,50,12/1/2021
+23,Pollo,Carnes,70,1/1/2021
+24,Tocino,Carnes,66,2/1/2021
+25,Pescado,Carnes,100,3/1/2021
